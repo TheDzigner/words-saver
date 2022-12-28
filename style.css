@@ -31,7 +31,7 @@ header
 {
 
  position: fixed ;
-
+margin :auto auto auto auto ;
  width :min(100%,480px);
 
  height :auto ;
