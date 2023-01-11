@@ -241,6 +241,7 @@ header span
  border-bottom :1px solid #3333;
 
  padding :7px ;
+  text-transform :capitalize ;
 
 }
 
@@ -259,7 +260,7 @@ header span
   padding :5px ;
 
   border-bottom :1px solid #3333;
-
+   text-transform :capitalize ;
 }
 
 .meaning p 
